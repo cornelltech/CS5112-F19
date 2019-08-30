@@ -16,7 +16,7 @@ TA: Gengmo Qi
 
 Graders/consultants: TBA
 
-Lecture: Monday and Wednesday, 5:00pm-6:15pm, Bloomberg Auditorium
+Lecture: Monday and Wednesday, 5:00pm-6:15pm, Bloomberg auditorium
 
 <!--
 ### **Communication**
@@ -96,4 +96,4 @@ All assignments are available on the [course CMS](https://cmsx.cs.cornell.edu/we
 - **Collaboration:** You are required to work in groups of 2 students on each assignment. Please indicate the name of your collaborator at the top of each assignment and cite any references you used (including articles, books, code, websites, and personal communications). If you&#39;re not sure whether to cite a source, err on the side of caution and cite it. You may submit just one writeup for the group. Remember not to plagiarize: all solutions must be written by members of the group. If you are the odd person out we will have you join an existing group of 2.
 - **Quizzes:** There will be short multiple-choice quizzes, generally at the end of the week. These are take home, and due within 24 hours.
 - **Prelim**: In class. **Tentative date: Wednesday October 9.**  The exam is closed book.
-- **Final Exam**: In class. on Monday December 9. The exam is closed book.
+- **Final Exam**: In class. Date: Monday December 9. The exam is closed book.
