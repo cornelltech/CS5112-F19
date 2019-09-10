@@ -18,10 +18,11 @@ Graders/consultants: TBA
 
 Lecture: Monday and Wednesday, 5:00pm-6:15pm, Bloomberg auditorium
 
-<!--
 ### **Communication**
 
-Please join our [slack workspace](https://join.slack.com/t/cs5112fall18/signup) (must use an @cornell.edu email address). The #announce channel on that workspace is the channel by which we will distribute all course information.
+Please join our [slack workspace](https://cs5112fall19.slack.com/signup) (must use an @cornell.edu email address). The #announce channel on that workspace is the channel by which we will distribute all course information.
+
+<!--
 
 ### **Room &amp; Time**
 
@@ -36,42 +37,17 @@ Office hours:
 
 Class number: 17766
 
+-->
+
 ### **Lectures** ###
 
 | *Date*                       | *Lecture*          | *Slides*
 | ------------- |:-------------:| -----:|
-|8/23 | Lecture 1: Dijkstra's Algorithm | [PDF](Lectures/Lec1-Dijkstra.pdf), [Powerpoint](Lectures/Lec1-Dijkstra.pptx)
-|8/28 | Lecture 2: Cryptocurrency Intro & Digital Signatures | [PDF](Lectures/Lecture%202.pdf), [Powerpoint](Lectures/Lecture%202.pptx)
-|8/30 | Lecture 3: Hashing | [PDF](Lectures/Lec3-hashing.pdf), [Powerpoint](Lectures/Lec3-hashing.pptx)
-|9/4 | Lecture 4.1: Hashing Applications<br/>Lecture 4.2: Consensus Algorithms (Proof of Work)|[PDF](Lectures/Lec4.1-hashing-applications.pdf), [Powerpoint](Lectures/Lec4.1-hashing-applications.pptx)<br/>[PDF](Lectures/Lecture%204.2%20-%20Consensus%20Algorithms%20(Proof%20of%20Work).pdf), [Powerpoint](Lectures/Lecture%204.2%20-%20Consensus%20Algorithms%20(Proof%20of%20Work).pptx)
-|9/6 | Lecture 5: Consensus Algorithms (Proof of Work cont.) |[PDF](Lectures/Lecture%205%20-%20Consensus%20Algorithms%20(Proof%20of%20Work%20cont.).pdf), [Powerpoint](Lectures/Lecture%205%20-%20Consensus%20Algorithms%20(Proof%20of%20Work%20cont.).pptx)
-|9/11 | Lecture 6: Consensus Algorithms (Paxos) |[PDF](Lectures/Lecture%206%20-%20Consensus%20Algorithms%20(Paxos).pdf), [Powerpoint](Lectures/Lecture%206%20-%20Consensus%20Algorithms%20(Paxos).pptx)
-|9/13 | Lecture 7: Some Distributed Applications | [PDF](Lectures/Lec7-chord.pdf), [Powerpoint](Lectures/Lec7-chord.pptx)
-|9/18 | Lecture 8: Distributed Applications continued; bits |[PDF](Lectures/Lec8-bits.pdf), [Keynote](Lectures/Lec8-bits.key)
-|9/20 | Lecture 9: Smart contracts (Ari Juels guest lecture) | [PDF](Lectures/JekyllHyde-lecture-2018.small.pdf)
-|9/20 | Clinic: Readability, Testing | [PDF](Lectures/clinic_readability.pdf), [Keynote](Lectures/clinic_readability.key)
-|9/25 | Lecture 10: Universal hashing, nearest neighbors | [PDF](Lectures/Lec10-universal-hashing.pdf), [Powerpoint](Lectures/Lec10-universal-hashing.pptx)
-|9/27 | Lecture 11: Density estimation | [PDF](Lectures/Lec11.NN-density-estimation.pdf), [Powerpoint](Lectures/Lec11.NN-density-estimation.pptx)
-|10/2 | Lecture 12: Exact Nearest Neighbor Algorithms | [PDF](Lectures/Lecture%2012%20-%20Exact%20Nearest%20Neighbor%20Algorithms.pdf), [Powerpoint](Lectures/Lecture%2012%20-%20Exact%20Nearest%20Neighbor%20Algorithms.pptx)
-|10/4 | Lecture 13: Streaming algorithms | [PDF](Lectures/Lec13.approximate-methods.given.pdf), [Powerpoint](Lectures/Lec13.approximate-methods.given.pptx)
-|10/9 | No lecture (Columbus Day) |
-|10/11 | Lecture 14: Convolution | [PDF](Lectures/Lec14.convolution.pdf), [Powerpoint](Lectures/Lec14.convolution.pptx)
-|10/16 | Lecture 15: Dynamic Programming | [PDF](Lectures/Lecture%2015%20-%20Dynamic%20Programming.pdf), [Powerpoint](Lectures/Lecture%2015%20-%20Dynamic%20Programming.pptx)
-|10/18 | Lecture 16: Dynamic Programming (Part 2) | [PDF](Lectures/Lecture%2016%20-%20Dynamic%20Programming%20(Part%202).pdf), [Powerpoint](Lectures/Lecture%2016%20-%20Dynamic%20Programming%20(Part%202).pptx)
-|10/23 | Lecture 17: exam review |
-|10/25 | **Exam (prelim)** |
-|10/30 | Lecture 18: Locality-sensitive hashing | [PDF](Lectures/Lec18.LSH.pdf), [Powerpoint](Lectures/Lec18.LSH.pptx)
-|11/1 | Lecture 19: Association rules | [PDF](Lectures/Lec19.association-rules.pdf), [Powerpoint](Lectures/Lec19.association-rules.pptx)
-|11/6 | Lecture 20: Image segmentation | [PDF](Lectures/Lec20.image-segmentation.given.pdf), [Powerpoint](Lectures/Lec20.image-segmentation.given.pptx)
-|11/8 | Lecture 21: Robust methods | [PDF](Lectures/Lec21.robust-images.final.pdf), [Powerpoint](Lectures/Lec21.robust-images.final.pptx)
-|11/13 | Lecture 22: Union-Find | [PDF](Lectures/Lecture%2022%20-%20Union-Find.pdf), [Powerpoint](Lectures/Lecture%2022%20-%20Union-Find.pptx)
-|11/15 | Lecture 23: Max Flow / Min Cut | [PDF](Lectures/Lecture%2023%20-%20Max%20Flow%20Min%20Cut.pdf), [Powerpoint](Lectures/Lecture%2023%20-%20Max%20Flow%20Min%20Cut.pptx)
-|11/20 | Lecture 24: Intro to Complexity Theory | [PDF](Lectures/Lecture%2024%20-%20Intro%20to%20Complexity%20Theory.pdf), [Powerpoint](Lectures/Lecture%2024%20-%20Intro%20to%20Complexity%20Theory.pptx)
-|11/22 | No lecture (Thanksgiving)
-|11/27 | Lecture 25: Max flow for computer vision [Microsoft blog post](https://www.microsoft.com/en-us/research/blog/group-shot-getting-everyone-smile/) | [PDF](Lectures/Lec24.max-flow-vision.pdf), [Powerpoint](Lectures/Lec24.max-flow-vision.pptx)  |
-|11/29 | Lecture 26: Exam review |
-|12/4 | **Exam (final)** |
+|9/4 | Lecture 1: Dynamic Programming | [PDF](Lectures/Lecture%201%20-%20Dynamic%20Programming.pdf), [Powerpoint](Lectures/Lecture%201%20-%20Dynamic%20Programming.pptx)
+|9/9 | Lecture 2: Dynamic Programming | [PDF](Lectures/Lecture%202%20-%20Dynamic%20Programming%20(continued).pdf), [Powerpoint](Lectures/Lecture%202%20-%20Dynamic%20Programming%20(continued).pptx)
 
+
+<!--
 ### **Assignments** ###
 
 All assignments are available on the [course CMS](https://cmsx.cs.cornell.edu/web/auth/?courseid=234). Due dates for assignments without CMS links are tentative.
