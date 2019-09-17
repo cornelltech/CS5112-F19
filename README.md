@@ -40,13 +40,38 @@ Class number: 17766
 -->
 
 ### **Lectures** ###
+**Topics and schedule are tentative and subject to change**
 
 | *Date*                       | *Lecture*          | *Slides*
 | ------------- |:-------------:| -----:|
 |9/4 | Lecture 1: Dynamic Programming | [PDF](Lectures/Lecture%201%20-%20Dynamic%20Programming.pdf), [Powerpoint](Lectures/Lecture%201%20-%20Dynamic%20Programming.pptx)
 |9/9 | Lecture 2: Dynamic Programming (continued) | [PDF](Lectures/Lecture%202%20-%20Dynamic%20Programming%20(continued).pdf), [Powerpoint](Lectures/Lecture%202%20-%20Dynamic%20Programming%20(continued).pptx)
 |9/11 | Lecture 3: Dijkstra | [PDF](Lectures/Lecture%203%20-%20Dijkstra.pdf), [Powerpoint](Lectures/Lecture%203%20-%20Dijkstra.pptx)
-
+|9/16 | Lecture 4: Union find | [PDF], [Powerpoint]
+|9/18 | Lecture 5: Balanced Trees | [PDF], [Powerpoint]
+|9/23 | Lecture 6: k-d Trees for nearest neighbors | [PDF], [Powerpoint]
+|9/25 | Lecture 7: Bipartite matching | [PDF], [Powerpoint]
+|9/30 | Lecture 8: Spanning trees | [PDF], [Powerpoint]
+|10/2 | Lecture 9: Max flow | [PDF], [Powerpoint]
+|10/7 | Lecture 10: Exam review | [PDF], [Powerpoint]
+|10/9 | Lecture 11: Association rules | [PDF], [Powerpoint]
+|10/14 | Indigenous Peoples' Day, no class | [PDF], [Powerpoint]
+|10/16 | Tentative: Prelim | [PDF], [Powerpoint]
+|10/21 | Lecture 12: Hashing | [PDF], [Powerpoint]
+|10/23 | Lecture 13: Distributed Hashing | [PDF], [Powerpoint]
+|10/28 | Lecture 14: Induction + proof strategies | [PDF], [Powerpoint]
+|10/30 | Lecture 15: Concurrency | [PDF], [Powerpoint]
+|11/4 | Lecture 16: Concurrency | [PDF], [Powerpoint]
+|11/6 | Lecture 17: Approximate methods and streaming algorithms | [PDF], [Powerpoint]
+|11/11 | Lecture 18: Streaming/sketching algorithms and proofs | [PDF], [Powerpoint]
+|11/13 | Lecture 19: Universal hashing | [PDF], [Powerpoint]
+|11/18 | Lecture 20: Density estimation and nearest neighbors | [PDF], [Powerpoint]
+|11/20 | Lecture 21: Locality sensitive hashing | [PDF], [Powerpoint]
+|11/25 | Lecture 22: Complexity theory | [PDF], [Powerpoint]
+|11/27 | Thanksgiving break, no class | [PDF], [Powerpoint]
+|12/2 | Lecture 23: Max flow for computer vision | [PDF], [Powerpoint]
+|12/4 | Lecture 24: Exam review | [PDF], [Powerpoint]
+|12/9 | Final Exam, in class | [PDF], [Powerpoint]
 
 <!--
 ### **Assignments** ###
