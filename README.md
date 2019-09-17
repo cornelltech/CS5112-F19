@@ -56,8 +56,8 @@ Class number: 17766
 |10/2 | Lecture 9: Max flow | [PDF], [Powerpoint]
 |10/7 | Lecture 10: Exam review | [PDF], [Powerpoint]
 |10/9 | Lecture 11: Association rules | [PDF], [Powerpoint]
-|10/14 | Indigenous Peoples' Day, no class | [PDF], [Powerpoint]
-|10/16 | Tentative: Prelim | [PDF], [Powerpoint]
+|10/14 | Indigenous Peoples' Day, no class | 
+|10/16 | Tentative: Prelim | 
 |10/21 | Lecture 12: Hashing | [PDF], [Powerpoint]
 |10/23 | Lecture 13: Distributed Hashing | [PDF], [Powerpoint]
 |10/28 | Lecture 14: Induction + proof strategies | [PDF], [Powerpoint]
@@ -69,10 +69,10 @@ Class number: 17766
 |11/18 | Lecture 20: Density estimation and nearest neighbors | [PDF], [Powerpoint]
 |11/20 | Lecture 21: Locality sensitive hashing | [PDF], [Powerpoint]
 |11/25 | Lecture 22: Complexity theory | [PDF], [Powerpoint]
-|11/27 | Thanksgiving break, no class | [PDF], [Powerpoint]
+|11/27 | Thanksgiving break, no class | 
 |12/2 | Lecture 23: Max flow for computer vision | [PDF], [Powerpoint]
 |12/4 | Lecture 24: Exam review | [PDF], [Powerpoint]
-|12/9 | Final Exam, in class | [PDF], [Powerpoint]
+|12/9 | Final Exam, in class | 
 
 <!--
 ### **Assignments** ###
