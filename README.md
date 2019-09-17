@@ -10,17 +10,17 @@ Familiarity with basic programming, algorithms and data structures (at the level
 
 ### **Course Staff**
 
-Instructors: Ramin Zabih and Greg Zecchini
+Instructors: [Ramin Zabih](rzabih@gmail.com) and [Greg Zecchini](gez3@cornell.edu)
 
-TA: Gengmo Qi
+TA: [Gengmo Qi](gq35@cornell.edu)
 
 Graders/consultants: 
-Yue Wang, YW986@cornell.edu
-Ta-Wei Mao, tm592@cornell.edu
-Zhenwei Zhang, zz654@cornell.edu
-Yong Huang, yh849@cornell.edu
-Siyu Yao, sy684@cornell.edu
-Xiran Sun, xs298@cornell.edu
+[Yue Wang](yw986@cornell.edu)
+[Ta-Wei Mao](tm592@cornell.edu)
+[Zhenwei Zhang](zz654@cornell.edu)
+[Yong Huang](yh849@cornell.edu)
+[Siyu Yao](sy684@cornell.edu)
+[Xiran Sun](xs298@cornell.edu)
 
 Lecture: Monday and Wednesday, 5:00pm-6:15pm, Bloomberg auditorium
 
