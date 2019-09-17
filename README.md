@@ -40,7 +40,7 @@ Class number: 17766
 -->
 
 ### **Lectures** ###
-**Topics and schedule are tentative and subject to change**
+_***Topics and schedule are tentative and subject to change***_
 
 | *Date*                       | *Lecture*          | *Slides*
 | ------------- |:-------------:| -----:|
