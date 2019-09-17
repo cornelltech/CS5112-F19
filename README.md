@@ -48,7 +48,7 @@ Class number: 17766
 |9/4 | Lecture 1: Dynamic Programming | [PDF](Lectures/Lecture%201%20-%20Dynamic%20Programming.pdf), [Powerpoint](Lectures/Lecture%201%20-%20Dynamic%20Programming.pptx)
 |9/9 | Lecture 2: Dynamic Programming (continued) | [PDF](Lectures/Lecture%202%20-%20Dynamic%20Programming%20(continued).pdf), [Powerpoint](Lectures/Lecture%202%20-%20Dynamic%20Programming%20(continued).pptx)
 |9/11 | Lecture 3: Dijkstra | [PDF](Lectures/Lecture%203%20-%20Dijkstra.pdf), [Powerpoint](Lectures/Lecture%203%20-%20Dijkstra.pptx)
-|9/16 | Lecture 4: Union find | [PDF], [Powerpoint]
+|9/16 | Lecture 4: Union find | [PDF](Lectures/Lecture%204%20-%20Union-Find.pdf), [Powerpoint](Lectures/Lecture%204%20-%20Union-Find.pptx)
 |9/18 | Lecture 5: Balanced Trees | [PDF], [Powerpoint]
 |9/23 | Lecture 6: k-d Trees for nearest neighbors | [PDF], [Powerpoint]
 |9/25 | Lecture 7: Bipartite matching | [PDF], [Powerpoint]
