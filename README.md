@@ -15,12 +15,7 @@ Instructors: [Ramin Zabih](mailto:rzabih@gmail.com) and [Greg Zecchini](mailto:g
 TA: [Gengmo Qi](mailto:gq35@cornell.edu)
 
 Graders/consultants: 
-[Yue Wang](mailto:yw986@cornell.edu)
-[Ta-Wei Mao](mailto:tm592@cornell.edu)
-[Zhenwei Zhang](mailto:zz654@cornell.edu)
-[Yong Huang](mailto:yh849@cornell.edu)
-[Siyu Yao](mailto:sy684@cornell.edu)
-[Xiran Sun](mailto:xs298@cornell.edu)
+[Yue Wang](mailto:yw986@cornell.edu), [Ta-Wei Mao](mailto:tm592@cornell.edu), [Zhenwei Zhang](mailto:zz654@cornell.edu), [Yong Huang](mailto:yh849@cornell.edu), [Siyu Yao](mailto:sy684@cornell.edu), [Xiran Sun](mailto:xs298@cornell.edu)
 
 Lecture: Monday and Wednesday, 5:00pm-6:15pm, Bloomberg auditorium
 
