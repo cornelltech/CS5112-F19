@@ -19,13 +19,14 @@ Graders/consultants:
 
 Lecture: Monday and Wednesday, 5:00pm-6:15pm, Bloomberg auditorium
 
-Office hours(***Tentative*):
-Monday 11:00 - 12:00: [Ta-Wei Mao](mailto:tm592@cornell.edu)
-Monday 15:00 - 16:00: [Xiran Sun](mailto:xs298@cornell.edu)
-Tuesday 11:00 - 12:00: [Yong Huang](mailto:yh849@cornell.edu)
-Wednesday 11:00 - 12:00: [Siyu Yao](mailto:sy684@cornell.edu)
-Thursday 14:00 - 15:00: [Zhenwei Zhang](mailto:zz654@cornell.edu)
-Thursday 15:00 - 16:00: [Yue Wang](mailto:yw986@cornell.edu)
+Office hours(**Tentative**):
+
+* Monday 11:00 - 12:00: [Ta-Wei Mao](mailto:tm592@cornell.edu)
+* Monday 15:00 - 16:00: [Xiran Sun](mailto:xs298@cornell.edu)
+* Tuesday 11:00 - 12:00: [Yong Huang](mailto:yh849@cornell.edu)
+* Wednesday 11:00 - 12:00: [Siyu Yao](mailto:sy684@cornell.edu)
+* Thursday 14:00 - 15:00: [Zhenwei Zhang](mailto:zz654@cornell.edu)
+* Thursday 15:00 - 16:00: [Yue Wang](mailto:yw986@cornell.edu)
 
 ### **Communication**
 
