@@ -21,12 +21,12 @@ Lecture: Monday and Wednesday, 5:00pm-6:15pm, Bloomberg auditorium
 
 Office hours(**Tentative**):
 
-* Monday 11:00 - 12:00: [Ta-Wei Mao](mailto:tm592@cornell.edu), Bloomberg 360 (5 VC)
-* Monday 15:00 - 16:00: [Xiran Sun](mailto:xs298@cornell.edu), Bloomberg 360 (5 VC)
-* Tuesday 11:00 - 12:00: [Yong Huang](mailto:yh849@cornell.edu), Bloomberg 377 (6 D)
-* Wednesday 11:00 - 12:00: [Siyu Yao](mailto:sy684@cornell.edu), Bloomberg 377 (6 D)
-* Thursday 14:00 - 15:00: [Zhenwei Zhang](mailto:zz654@cornell.edu), 
-* Thursday 15:00 - 16:00: [Yue Wang](mailto:yw986@cornell.edu), Bloomberg 377 (6 D)
+* Monday 11:00 - 12:00: [Ta-Wei Mao](mailto:tm592@cornell.edu), Bloomberg 360
+* Monday 15:00 - 16:00: [Xiran Sun](mailto:xs298@cornell.edu), Bloomberg 360
+* Tuesday 11:00 - 12:00: [Yong Huang](mailto:yh849@cornell.edu), Bloomberg 377
+* Wednesday 11:00 - 12:00: [Siyu Yao](mailto:sy684@cornell.edu), Bloomberg 377 
+* Thursday 14:00 - 15:00: [Zhenwei Zhang](mailto:zz654@cornell.edu), Bloomberg 375
+* Thursday 15:00 - 16:00: [Yue Wang](mailto:yw986@cornell.edu), Bloomberg 377
 
 ### **Communication**
 
