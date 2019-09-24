@@ -59,7 +59,7 @@ Class number: 17766
 |9/11 | Lecture 3: Dijkstra | [PDF](Lectures/Lecture%203%20-%20Dijkstra.pdf), [Powerpoint](Lectures/Lecture%203%20-%20Dijkstra.pptx) |Quiz 1 : due 9/13
 |9/16 | Lecture 4: Union find | [PDF](Lectures/Lecture%204%20-%20Union-Find.pdf), [Powerpoint](Lectures/Lecture%204%20-%20Union-Find.pptx) |
 |9/18 | Lecture 5: Balanced Trees | [PDF](Lectures/Lecture%205%20-%20Balanced%20trees.pdf), [Powerpoint](Lectures/Lecture%205%20-%20Balanced%20trees.pptx) |Quiz 2 : due 9/20
-|9/23 | Lecture 6: k-d Trees for nearest neighbors | [PDF], [Powerpoint] |
+|9/23 | Lecture 6: k-d Trees for nearest neighbors | [PDF](Lectures/Lecture%206%20-%20Exact%20Nearest%20Neighbor%20Algorithms.pdf), [Powerpoint](Lectures/Lecture%206%20-%20Exact%20Nearest%20Neighbor%20Algorithms.pptx) |
 |9/25 | Lecture 7: Bipartite matching | [PDF], [Powerpoint]|Quiz 3 : due 9/27
 |9/30 | Lecture 8: Spanning trees | [PDF], [Powerpoint]|
 |10/2 | Lecture 9: Max flow | [PDF], [Powerpoint] |Quiz 4 : due 10/4
