@@ -52,7 +52,7 @@ Class number: 17766
 ### **Lectures** ###
 **Topics and schedule are _tentative_ and subject to change**
 
-| *Date*                       | *Lecture*          | *Slides* | *Quiz*
+| *Date*                       | *Lecture*          | *Slides* | *Deadlines*
 | ------------- |:-------------:| -----:|-----:|
 |9/4 | Lecture 1: Dynamic Programming | [PDF](Lectures/Lecture%201%20-%20Dynamic%20Programming.pdf), [Powerpoint](Lectures/Lecture%201%20-%20Dynamic%20Programming.pptx)|
 |9/9 | Lecture 2: Dynamic Programming (continued) | [PDF](Lectures/Lecture%202%20-%20Dynamic%20Programming%20(continued).pdf), [Powerpoint](Lectures/Lecture%202%20-%20Dynamic%20Programming%20(continued).pptx) |
@@ -63,7 +63,7 @@ Class number: 17766
 |9/25 | Lecture 7: Minimum spanning trees | [PDF](Lectures/Lecture%207%20-%20MST.pdf), [Powerpoint](Lectures/Lecture%207%20-%20MST.pptx)|**Quiz 3 : due 10/2**
 |9/30 | Lecture 8: Spanning trees | [PDF], [Powerpoint]|
 |10/2 | Lecture 9: Max flow | [PDF], [Powerpoint] |Quiz 4 : due 10/4
-|10/7 | Lecture 10: Exam review | [PDF], [Powerpoint] |
+|10/7 | Lecture 10: Exam review | [PDF], [Powerpoint] | [Assignment 1: due 10/7](https://cmsx.cs.cornell.edu/web/auth/?action=assignment&assignid=5017
 |10/9 | Lecture 11: Association rules | [PDF], [Powerpoint] |Quiz 5 : due 10/11
 |10/14 | Indigenous Peoples' Day, no class | 
 |10/16 | Tentative: Prelim | 
