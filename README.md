@@ -60,7 +60,7 @@ Class number: 17766
 |9/16 | Lecture 4: Union find | [PDF](Lectures/Lecture%204%20-%20Union-Find.pdf), [Powerpoint](Lectures/Lecture%204%20-%20Union-Find.pptx) |
 |9/18 | Lecture 5: Balanced Trees | [PDF](Lectures/Lecture%205%20-%20Balanced%20trees.pdf), [Powerpoint](Lectures/Lecture%205%20-%20Balanced%20trees.pptx) |Quiz 2 : due 9/20
 |9/23 | Lecture 6: k-d Trees for nearest neighbors | [PDF](Lectures/Lecture%206%20-%20Exact%20Nearest%20Neighbor%20Algorithms.pdf), [Powerpoint](Lectures/Lecture%206%20-%20Exact%20Nearest%20Neighbor%20Algorithms.pptx) |
-|9/25 | Lecture 7: Bipartite matching | [PDF], [Powerpoint]|Quiz 3 : due 9/27
+|9/25 | Lecture 7: Minimum spanning trees | [PDF](Lectures/Lecture%207%20-%20MST.pdf), [Powerpoint](Lectures/Lecture%207%20-%20MST.pptx)|Quiz 3 : due 9/27
 |9/30 | Lecture 8: Spanning trees | [PDF], [Powerpoint]|
 |10/2 | Lecture 9: Max flow | [PDF], [Powerpoint] |Quiz 4 : due 10/4
 |10/7 | Lecture 10: Exam review | [PDF], [Powerpoint] |
@@ -83,20 +83,14 @@ Class number: 17766
 |12/4 | Lecture 24: Exam review | [PDF], [Powerpoint]
 |12/9 | Final Exam, in class | 
 
-<!--
+
 ### **Assignments** ###
 
 All assignments are available on the [course CMS](https://cmsx.cs.cornell.edu/web/auth/?courseid=234). Due dates for assignments without CMS links are tentative.
 
 | *Assignment*                       | *Due Date*
 | ------------- |:-------------:
-| [Assignment 1: Dijkstra's Algorithm](https://cmsx.cs.cornell.edu/web/auth/?action=assignment&assignid=2329) | September 6
-| [Assignment 2: HashTables and Bloom Filters](https://cmsx.cs.cornell.edu/web/auth/?action=assignment&assignid=2478) | September 20
-| [Assignment 3: Boyer Moore and Huffman Coding](https://cmsx.cs.cornell.edu/web/auth/?action=assignment&assignid=2873) | October 23
-| [Assignment 4: Dynamic Programming](https://cmsx.cs.cornell.edu/web/auth/?action=assignment&assignid=3207) | November 29
-
--->
-
+| [Assignment 1: Dynamic Programming](https://cmsx.cs.cornell.edu/web/auth/?action=assignment&assignid=5017) | October 7
 
 ### **Textbooks: none**
 
