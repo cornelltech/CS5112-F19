@@ -86,7 +86,7 @@ Class number: 17766
 
 ### **Assignments** ###
 
-All assignments are available on the [course CMS](https://cmsx.cs.cornell.edu/web/auth/?courseid=234). Due dates for assignments without CMS links are tentative.
+All assignments are available on the [course CMS](https://cmsx.cs.cornell.edu/web/auth/?courseid=417). Due dates for assignments without CMS links are tentative.
 
 | *Assignment*                       | *Due Date*
 | ------------- |:-------------:
