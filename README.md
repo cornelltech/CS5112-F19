@@ -61,7 +61,7 @@ Class number: 17766
 |9/18 | Lecture 5: Balanced Trees | [PDF](Lectures/Lecture%205%20-%20Balanced%20trees.pdf), [Powerpoint](Lectures/Lecture%205%20-%20Balanced%20trees.pptx) |Quiz 2 : due 9/20
 |9/23 | Lecture 6: k-d Trees for nearest neighbors | [PDF](Lectures/Lecture%206%20-%20Exact%20Nearest%20Neighbor%20Algorithms.pdf), [Powerpoint](Lectures/Lecture%206%20-%20Exact%20Nearest%20Neighbor%20Algorithms.pptx) |
 |9/25 | Lecture 7: Minimum spanning trees | [PDF](Lectures/Lecture%207%20-%20MST.pdf), [Powerpoint](Lectures/Lecture%207%20-%20MST.pptx)|**Quiz 3 : due 10/2**
-|9/30 | Lecture 8: Data representation and real-world efficiency(graph, array, memory, B* trees) | [PDF], [Powerpoint]|
+|9/30 | Lecture 8: Data representation and real-world efficiency(Memory representation, allocation and hierarchy) | [PDF], [Powerpoint]|
 |10/2 | Lecture 9: Max flow | [PDF], [Powerpoint] |Quiz 4 : due 10/4
 |10/7 | Lecture 10: Exam review | [PDF], [Powerpoint] | [Assignment 1: due 10/7](https://cmsx.cs.cornell.edu/web/auth/?action=assignment&assignid=5017)
 |10/9 | Lecture 11: Association rules | [PDF], [Powerpoint] |Quiz 5 : due 10/11
