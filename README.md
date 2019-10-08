@@ -66,9 +66,9 @@ Video recordings of the lectures can be found on [Mediasite](https://cornell.med
 |9/30 | Lecture 8: Data representation and real-world efficiency | [PDF](Lectures/Lecture%208%20-%20data%20representations.pdf), [Powerpoint](Lectures/Lecture%208%20-%20data%20representations.pptx)|
 |10/2 | Lecture 9: Max flow / Min cut | [PDF](Lectures/Lecture%209%20-%20Max%20Flow%20_%20Min%20Cut.pdf), [Powerpoint](Lectures/Lecture%209%20-%20Max%20Flow%20_%20Min%20Cut.pptx) |Quiz 4 : due 10/4
 |10/7 | Lecture 10: Association rules | [PDF](Lectures/Lecture%2010%20-%20association-rules.pdf), [Powerpoint](Lectures/Lecture%2010%20-%20association-rules.pptx)| [Assignment 1: due 10/7](https://cmsx.cs.cornell.edu/web/auth/?action=assignment&assignid=5017)
-|10/9 | Lecture 11: Hashing| [PDF], [Powerpoint] |Quiz 5 : due 10/11
+|10/9 | Lecture 11: NP-hard graph algorithms| [PDF], [Powerpoint] |Quiz 5 : due 10/11
 |10/14 | Indigenous Peoples' Day, no class | 
-|10/16 | Lecture 12: Distributed Hashing | [PDF], [Powerpoint]
+|10/16 | Lecture 12: Reductions, lower bounds and approximation algorithms| [PDF], [Powerpoint]
 |10/21 | Lecture 13: Exam review
 |10/23 | Tentative: Prelim | [2018 Prelim](Lectures/2018prelim.pdf)| *Prelim coverage changes from year to year*
 |10/28 | Lecture 14: Induction + proof strategies | [PDF], [Powerpoint] |
