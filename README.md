@@ -52,7 +52,7 @@ Class number: 17766
 ### **Lectures** ###
 **Topics and schedule are _tentative_ and subject to change**
 
-[Videotaped lectures](https://cornell.mediasite.com/Mediasite/Catalog/Full/6fd787a7f5bc4dd3b2494681be6be59621)
+Video recordings of the lectures can be found on [Mediasite](https://cornell.mediasite.com/Mediasite/Catalog/Full/6fd787a7f5bc4dd3b2494681be6be59621)
 
 | *Date*                       | *Lecture*          | *Slides* | *Deadlines*
 | ------------- |:-------------:| -----:|-----:|
