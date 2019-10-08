@@ -52,6 +52,8 @@ Class number: 17766
 ### **Lectures** ###
 **Topics and schedule are _tentative_ and subject to change**
 
+[Videotaped lectures](https://cornell.mediasite.com/Mediasite/Catalog/Full/6fd787a7f5bc4dd3b2494681be6be59621)
+
 | *Date*                       | *Lecture*          | *Slides* | *Deadlines*
 | ------------- |:-------------:| -----:|-----:|
 |9/4 | Lecture 1: Dynamic Programming | [PDF](Lectures/Lecture%201%20-%20Dynamic%20Programming.pdf), [Powerpoint](Lectures/Lecture%201%20-%20Dynamic%20Programming.pptx)|
@@ -64,11 +66,11 @@ Class number: 17766
 |9/30 | Lecture 8: Data representation and real-world efficiency | [PDF](Lectures/Lecture%208%20-%20data%20representations.pdf), [Powerpoint](Lectures/Lecture%208%20-%20data%20representations.pptx)|
 |10/2 | Lecture 9: Max flow / Min cut | [PDF](Lectures/Lecture%209%20-%20Max%20Flow%20_%20Min%20Cut.pdf), [Powerpoint](Lectures/Lecture%209%20-%20Max%20Flow%20_%20Min%20Cut.pptx) |Quiz 4 : due 10/4
 |10/7 | Lecture 10: Association rules | [PDF](Lectures/Lecture%2010%20-%20association-rules.pdf), [Powerpoint](Lectures/Lecture%2010%20-%20association-rules.pptx)| [Assignment 1: due 10/7](https://cmsx.cs.cornell.edu/web/auth/?action=assignment&assignid=5017)
-|10/9 | Lecture 11: Exam review | [PDF], [Powerpoint] |Quiz 5 : due 10/11
+|10/9 | Lecture 11: Hashing| [PDF], [Powerpoint] |Quiz 5 : due 10/11
 |10/14 | Indigenous Peoples' Day, no class | 
-|10/16 | Tentative: Prelim | [2018 Prelim](Lectures/2018prelim.pdf)
-|10/21 | Lecture 12: Hashing | [PDF], [Powerpoint]
-|10/23 | Lecture 13: Distributed Hashing | [PDF], [Powerpoint] |Quiz 6 : due 10/25
+|10/16 | Lecture 12: Distributed Hashing | [PDF], [Powerpoint]
+|10/21 | Lecture 13: Exam review
+|10/23 | Tentative: Prelim | [2018 Prelim](Lectures/2018prelim.pdf)| *Prelim coverage changes from year to year*
 |10/28 | Lecture 14: Induction + proof strategies | [PDF], [Powerpoint] |
 |10/30 | Lecture 15: Concurrency | [PDF], [Powerpoint] |Quiz 7 : due 11/1
 |11/4 | Lecture 16: Concurrency | [PDF], [Powerpoint] 
@@ -81,7 +83,7 @@ Class number: 17766
 |11/27 | Thanksgiving break, no class | 
 |12/2 | Lecture 23: Max flow for computer vision | [PDF], [Powerpoint]
 |12/4 | Lecture 24: Exam review | [PDF], [Powerpoint]
-|12/9 | Final Exam, in class | [2018 Final](Lectures/2018final.pdf)
+|12/9 | Final Exam, in class | [2018 Final](Lectures/2018final.pdf) | *Final coverage changes from year to year*
 
 
 ### **Assignments** ###
