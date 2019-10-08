@@ -66,7 +66,7 @@ Class number: 17766
 |10/7 | Lecture 10: Association rules | [PDF](Lectures/Lecture%2010%20-%20association-rules.pdf), [Powerpoint](Lectures/Lecture%2010%20-%20association-rules.pptx)| [Assignment 1: due 10/7](https://cmsx.cs.cornell.edu/web/auth/?action=assignment&assignid=5017)
 |10/9 | Lecture 11: Exam review | [PDF], [Powerpoint] |Quiz 5 : due 10/11
 |10/14 | Indigenous Peoples' Day, no class | 
-|10/16 | Tentative: Prelim | 
+|10/16 | Tentative: Prelim | [2018 Prelim](Lectures/2018prelim.pdf)
 |10/21 | Lecture 12: Hashing | [PDF], [Powerpoint]
 |10/23 | Lecture 13: Distributed Hashing | [PDF], [Powerpoint] |Quiz 6 : due 10/25
 |10/28 | Lecture 14: Induction + proof strategies | [PDF], [Powerpoint] |
@@ -81,7 +81,7 @@ Class number: 17766
 |11/27 | Thanksgiving break, no class | 
 |12/2 | Lecture 23: Max flow for computer vision | [PDF], [Powerpoint]
 |12/4 | Lecture 24: Exam review | [PDF], [Powerpoint]
-|12/9 | Final Exam, in class | 
+|12/9 | Final Exam, in class | [2018 Final](Lectures/2018final.pdf)
 
 
 ### **Assignments** ###
