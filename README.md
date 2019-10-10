@@ -61,11 +61,11 @@ Video recordings of the lectures can be found on [Mediasite](https://cornell.med
 |9/11 | Lecture 3: Dijkstra | [PDF](Lectures/Lecture%203%20-%20Dijkstra.pdf), [Powerpoint](Lectures/Lecture%203%20-%20Dijkstra.pptx) |Quiz 1 : due 9/13
 |9/16 | Lecture 4: Union find | [PDF](Lectures/Lecture%204%20-%20Union-Find.pdf), [Powerpoint](Lectures/Lecture%204%20-%20Union-Find.pptx) |
 |9/18 | Lecture 5: Balanced Trees | [PDF](Lectures/Lecture%205%20-%20Balanced%20trees.pdf), [Powerpoint](Lectures/Lecture%205%20-%20Balanced%20trees.pptx) |Quiz 2 : due 9/20
-|9/23 | Lecture 6: k-d Trees for nearest neighbors | [PDF](Lectures/Lecture%206%20-%20Exact%20Nearest%20Neighbor%20Algorithms.pdf), [Powerpoint](Lectures/Lecture%206%20-%20Exact%20Nearest%20Neighbor%20Algorithms.pptx) |
+|9/23 | Lecture 6: k-d Trees for nearest neighbors | [PDF](Lectures/Lecture%206%20-%20Exact%20Nearest%20Neighbor%20Algorithms.pdf), [Powerpoint](Lectures/Lecture%206%20-%20Exact%20Nearest%20Neighbor%20Algorithms.pptx) | HW1 released
 |9/25 | Lecture 7: Minimum spanning trees | [PDF](Lectures/Lecture%207%20-%20MST.pdf), [Powerpoint](Lectures/Lecture%207%20-%20MST.pptx)|Quiz 3 : due 10/2
 |9/30 | Lecture 8: Data representation and real-world efficiency | [PDF](Lectures/Lecture%208%20-%20data%20representations.pdf), [Powerpoint](Lectures/Lecture%208%20-%20data%20representations.pptx)|
 |10/2 | Lecture 9: Max flow / Min cut | [PDF](Lectures/Lecture%209%20-%20Max%20Flow%20_%20Min%20Cut.pdf), [Powerpoint](Lectures/Lecture%209%20-%20Max%20Flow%20_%20Min%20Cut.pptx) |Quiz 4 : due 10/4
-|10/7 | Lecture 10: Association rules | [PDF](Lectures/Lecture%2010%20-%20association-rules.pdf), [Powerpoint](Lectures/Lecture%2010%20-%20association-rules.pptx)| [Assignment 1: due 10/7](https://cmsx.cs.cornell.edu/web/auth/?action=assignment&assignid=5017)
+|10/7 | Lecture 10: Association rules | [PDF](Lectures/Lecture%2010%20-%20association-rules.pdf), [Powerpoint](Lectures/Lecture%2010%20-%20association-rules.pptx)| [HW 1: due 10/7](https://cmsx.cs.cornell.edu/web/auth/?action=assignment&assignid=5017)
 |10/9 | Lecture 11: More graph problems / Complexity theory| [PDF](Lectures/Lecture%2011%20-%20More%20Graph%20Problems%20_%20Complexity%20Theory.pdf), [Powerpoint](Lectures/Lecture%2011%20-%20More%20Graph%20Problems%20_%20Complexity%20Theory.pptx) |Quiz 5 : due 10/11
 |10/14 | Indigenous Peoples' Day, no class | 
 |10/16 | Lecture 12: Reductions, lower bounds and approximation algorithms| [PDF], [Powerpoint] |Quiz 6 : due 10/18
