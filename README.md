@@ -68,7 +68,7 @@ Video recordings of the lectures can be found on [Mediasite](https://cornell.med
 |10/7 | Lecture 10: Association rules | [PDF](Lectures/Lecture%2010%20-%20association-rules.pdf), [Powerpoint](Lectures/Lecture%2010%20-%20association-rules.pptx)| [HW 1: due 10/7](https://cmsx.cs.cornell.edu/web/auth/?action=assignment&assignid=5017)
 |10/9 | Lecture 11: More graph problems / Complexity theory| [PDF](Lectures/Lecture%2011%20-%20More%20Graph%20Problems%20_%20Complexity%20Theory.pdf), [Powerpoint](Lectures/Lecture%2011%20-%20More%20Graph%20Problems%20_%20Complexity%20Theory.pptx) |Quiz 5 : due 10/11
 |10/14 | Indigenous Peoples' Day, no class | 
-|10/16 | Lecture 12: Reductions, lower bounds and approximation algorithms| [PDF], [Powerpoint] |Quiz 6 : due 10/18
+|10/16 | Lecture 12: Reductions, lower bounds and approximation algorithms| [PDF](Lectures/Lecture%2012%20-%20reductions.pdf), [Powerpoint](Lectures/Lecture%2012%20-%20reductions.pptx) |Quiz 6 : due 10/18
 |10/21 | Lecture 13: Exam review | | HW2 release(tentative)
 |10/23 | **Prelim** | [2018 Prelim](Lectures/2018prelim.pdf)| *Prelim coverage changes from year to year*
 |10/28 | Lecture 14: Induction + proof strategies | [PDF], [Powerpoint] |
