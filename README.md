@@ -23,7 +23,7 @@ Graders/consultants:
 
 -TA
 
-* Gengmo: By appointment(mailto:gq35@cornell.edu or Slack)
+* Gengmo: By appointment([email](mailto:gq35@cornell.edu) or Slack)
 
 -Graders
 * Monday 11:00 - 12:00: [Ta-Wei Mao](mailto:tm592@cornell.edu), Bloomberg 360
