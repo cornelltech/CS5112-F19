@@ -20,7 +20,9 @@ Graders/consultants:
 Lecture: Monday and Wednesday, 5:00pm-6:15pm, Bloomberg auditorium
 
 Office hours
+
 -TA
+
 *Gengmo: By appointment(mailto:gq35@cornell.edu or Slack)
 
 -Graders
