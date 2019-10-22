@@ -73,7 +73,7 @@ Video recordings of the lectures can be found on [Mediasite](https://cornell.med
 |10/23 | **Prelim** | [2018 Prelim](Lectures/2018prelim.pdf)| *Prelim coverage changes from year to year*
 |10/28 | Lecture 14: Induction + proof strategies | [PDF], [Powerpoint] |
 |10/30 | Lecture 15: Concurrency | [PDF], [Powerpoint] |Quiz 7 : due 11/1
-|11/4 | Lecture 16: Concurrency | [PDF], [Powerpoint] |HW2 due, HW3 release(tentative)
+|11/4 | Lecture 16: Concurrency | [PDF], [Powerpoint] |[HW2 due](https://cmsx.cs.cornell.edu/web/auth/?action=assignment&assignid=5284), HW3 release(tentative)
 |11/6 | Lecture 17: Approximate methods and streaming algorithms | [PDF], [Powerpoint] |Quiz 8 : due 11/8
 |11/11 | Lecture 18: Streaming/sketching algorithms and proofs | [PDF], [Powerpoint]
 |11/13 | Lecture 19: Universal hashing | [PDF], [Powerpoint] |Quiz 9 : due 11/15
