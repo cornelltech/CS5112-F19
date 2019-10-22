@@ -20,8 +20,10 @@ Graders/consultants:
 Lecture: Monday and Wednesday, 5:00pm-6:15pm, Bloomberg auditorium
 
 Office hours
-* Gengmo: By appointment(mailto:gq35@cornell.edu or Slack)
+-TA
+*Gengmo: By appointment(mailto:gq35@cornell.edu or Slack)
 
+-Graders
 * Monday 11:00 - 12:00: [Ta-Wei Mao](mailto:tm592@cornell.edu), Bloomberg 360
 * Monday 15:00 - 16:00: [Xiran Sun](mailto:xs298@cornell.edu), Bloomberg 360
 * Tuesday 11:00 - 12:00: [Yong Huang](mailto:yh849@cornell.edu), Bloomberg 377
