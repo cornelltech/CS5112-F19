@@ -17,13 +17,13 @@ TA: [Gengmo Qi](mailto:gq35@cornell.edu)
 Graders/consultants: 
 [Yue Wang](mailto:yw986@cornell.edu), [Ta-Wei Mao](mailto:tm592@cornell.edu), [Zhenwei Zhang](mailto:zz654@cornell.edu), [Yong Huang](mailto:yh849@cornell.edu), [Siyu Yao](mailto:sy684@cornell.edu), [Xiran Sun](mailto:xs298@cornell.edu)
 
-Lecture: Monday and Wednesday, 5:00pm-6:15pm, Bloomberg auditorium
+**Lecture**: Monday and Wednesday, 5:00pm-6:15pm, Bloomberg auditorium
 
-Office hours
+**Office hours**
 
 -TA
 
-*Gengmo: By appointment(mailto:gq35@cornell.edu or Slack)
+* Gengmo: By appointment(mailto:gq35@cornell.edu or Slack)
 
 -Graders
 * Monday 11:00 - 12:00: [Ta-Wei Mao](mailto:tm592@cornell.edu), Bloomberg 360
