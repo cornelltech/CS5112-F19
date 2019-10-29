@@ -76,7 +76,7 @@ Video recordings of the lectures can be found on [Mediasite](https://cornell.med
 |10/16 | Lecture 12: Reductions, lower bounds and approximation algorithms| [PDF](Lectures/Lecture%2012%20-%20reductions.pdf), [Powerpoint](Lectures/Lecture%2012%20-%20reductions.pptx) |Quiz 6 : due 10/18
 |10/21 | Lecture 13: Exam review | | HW2 released
 |10/23 | **Prelim** | [2018 Prelim](Lectures/2018prelim.pdf)| *Prelim coverage changes from year to year*
-|10/28 | Lecture 14: Concurrency | [PDF], [Powerpoint] |
+|10/28 | Lecture 14: Concurrency | [PDF](Lectures/Lecture%2014%20-%20Concurrency.pdf), [Powerpoint](Lectures/Lecture%2014%20-%20Concurrency.pptx) |
 |10/30 | Lecture 15: Concurrency (continued) | [PDF], [Powerpoint] |Quiz 7 : due 11/1
 |11/4 | Lecture 16: Induction + proof strategies | [PDF], [Powerpoint] |[HW2 due](https://cmsx.cs.cornell.edu/web/auth/?action=assignment&assignid=5284), HW3 release(tentative)
 |11/6 | Lecture 17: Approximate methods and streaming algorithms | [PDF], [Powerpoint] |Quiz 8 : due 11/8
