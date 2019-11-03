@@ -78,13 +78,13 @@ Video recordings of the lectures can be found on [Mediasite](https://cornell.med
 |10/23 | **Prelim** | [2018 Prelim](Lectures/2018prelim.pdf)| *Prelim coverage changes from year to year*
 |10/28 | Lecture 14: Concurrency | [PDF](Lectures/Lecture%2014%20-%20Concurrency.pdf), [Powerpoint](Lectures/Lecture%2014%20-%20Concurrency.pptx) |
 |10/30 | Lecture 15: Distributed Computing | [PDF](Lectures/Lecture%2015%20-%20Distributed%20Computing.pdf), [Powerpoint](Lectures/Lecture%2015%20-%20Distributed%20Computing.pptx) |Quiz 7 : due 11/1
-|11/4 | Lecture 16: Induction + proof strategies | [PDF], [Powerpoint] |[HW2 due](https://cmsx.cs.cornell.edu/web/auth/?action=assignment&assignid=5284), HW3 release(tentative)
-|11/6 | Lecture 17: Approximate methods and streaming algorithms | [PDF], [Powerpoint] |Quiz 8 : due 11/8
-|11/11 | Lecture 18: Streaming/sketching algorithms and proofs | [PDF], [Powerpoint]
-|11/13 | Lecture 19: Universal hashing | [PDF], [Powerpoint] |Quiz 9 : due 11/15
-|11/18 | Lecture 20: Density estimation and nearest neighbors | [PDF], [Powerpoint]|HW3 due, HW4 release(tentative)
+|11/4 | Lecture 16: Approximate methods and streaming algorithms | [PDF], [Powerpoint] |[HW2 due](https://cmsx.cs.cornell.edu/web/auth/?action=assignment&assignid=5284), HW3 release(tentative)
+|11/6 | Lecture 17: Streaming/sketching algorithms and proofs | [PDF], [Powerpoint] |Quiz 8 : due 11/8
+|11/11 | Lecture 18: TBD | [PDF], [Powerpoint]
+|11/13 | Lecture 19: Hashing | [PDF], [Powerpoint] |Quiz 9 : due 11/15
+|11/18 | Lecture 20: Universal hashing | [PDF], [Powerpoint]|HW3 due, HW4 release(tentative)
 |11/20 | Lecture 21: Locality sensitive hashing | [PDF], [Powerpoint] |Quiz 10 : due 11/22
-|11/25 | Lecture 22: Complexity theory | [PDF], [Powerpoint]
+|11/25 | Lecture 22: Stochastic gradient descent | [PDF], [Powerpoint]
 |11/27 | Thanksgiving break, no class | 
 |12/2 | Lecture 23: Max flow for computer vision | [PDF], [Powerpoint] |HW4 due(tentative)
 |12/4 | Lecture 24: Exam review | [PDF], [Powerpoint]
