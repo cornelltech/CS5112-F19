@@ -79,10 +79,10 @@ Video recordings of the lectures can be found on [Mediasite](https://cornell.med
 |10/28 | Lecture 14: Concurrency | [PDF](Lectures/Lecture%2014%20-%20Concurrency.pdf), [Powerpoint](Lectures/Lecture%2014%20-%20Concurrency.pptx) |
 |10/30 | Lecture 15: Distributed Computing | [PDF](Lectures/Lecture%2015%20-%20Distributed%20Computing.pdf), [Powerpoint](Lectures/Lecture%2015%20-%20Distributed%20Computing.pptx) |Quiz 7 : due 11/1
 |11/4 | Lecture 16: Streaming algorithms | [PDF](Lectures/Lecture%2016%20-%20streaming.pdf), [Powerpoint](Lectures/Lecture%2016%20-%20streaming.pptx) |[HW2 due](https://cmsx.cs.cornell.edu/web/auth/?action=assignment&assignid=5284)
-|11/6 | Lecture 17: Streaming algorithms and hashing | [PDF], [Powerpoint] |HW3 release, Quiz 8 : due 11/8
+|11/6 | Lecture 17: Streaming algorithms and hashing | [PDF](Lectures/Lecture%2017%20-%20streaming%20with%20hashing.pdf), [Powerpoint](Lectures/Lecture%2017%20-%20streaming%20with%20hashing.pptx) |HW3 release, Quiz 8 : due 11/8
 |11/11 | Lecture 18: Proofs of correctness | [PDF], [Powerpoint]
 |11/13 | Lecture 19: Hashing applications | [PDF], [Powerpoint] |Quiz 9 : due 11/15
-|11/18 | Lecture 20: Distributed hashing | [PDF], [Powerpoint]|HW3 due, HW4 release(tentative)
+|11/18 | Lecture 20: Distributed hashing | [PDF], [Powerpoint]|
 |11/20 | Lecture 21: Locality sensitive hashing | [PDF], [Powerpoint] |[HW3 due](http://cmsx.cs.cornell.edu/web/auth/?action=assignment&assignid=5442), Quiz 10 : due 11/22
 |11/25 | Lecture 22: Stochastic gradient descent | [PDF], [Powerpoint]
 |11/27 | Thanksgiving break, no class | 
