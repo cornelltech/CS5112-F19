@@ -101,7 +101,8 @@ All assignments are available on the [course CMS](https://cmsx.cs.cornell.edu/we
 | [Assignment 2: Graph Shortest Path](https://cmsx.cs.cornell.edu/web/auth/?action=assignment&assignid=5284) | November 4
 
 
-### **Textbooks: none required** Recommended: [Mining of Massive Datasets](http://www.mmds.org/)
+### **Textbooks: none required** ### 
+Recommended textbook: [Mining of Massive Datasets](http://www.mmds.org/)
 
 ### **Course Requirements and Grading**
 
