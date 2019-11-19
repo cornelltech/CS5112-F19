@@ -82,7 +82,7 @@ Video recordings of the lectures can be found on [Mediasite](https://cornell.med
 |11/6 | Lecture 17: Streaming algorithms and hashing | [PDF](Lectures/Lecture%2017%20-%20streaming%20with%20hashing.pdf), [Powerpoint](Lectures/Lecture%2017%20-%20streaming%20with%20hashing.pptx) |HW3 release, Quiz 8 : due 11/8
 |11/11 | Lecture 18: Proof by Induction | [PDF](Lectures/Lecture%2018%20-%20Proof%20by%20Induction.pdf), [Powerpoint](Lectures/Lecture%2018%20-%20Proof%20by%20Induction.pptx)
 |11/13 | Lecture 19: Reductions, lower bounds, hashing | [PDF](Lectures/Lecture%2019%20-%20reductions,%20hashing.pdf), [Powerpoint](Lectures/Lecture%2019%20-%20reductions,%20hashing.pptx) |Quiz 9 : due 11/15
-|11/18 | Lecture 20: Distributed hashing | [PDF], [Powerpoint]|
+|11/18 | Lecture 20: Distributed hashing | [PDF](Lectures/Lecture%2020-DHT.pdf), [Powerpoint](Lectures/Lecture%2020-DHT.pptx)|
 |11/20 | Lecture 21: Locality sensitive hashing | [PDF], [Powerpoint] |[HW3 due](http://cmsx.cs.cornell.edu/web/auth/?action=assignment&assignid=5442), Quiz 10 : due 11/22
 |11/25 | Lecture 22: Stochastic gradient descent | [PDF], [Powerpoint]
 |11/27 | Thanksgiving break, no class | 
