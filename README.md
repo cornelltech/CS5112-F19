@@ -84,7 +84,7 @@ Video recordings of the lectures can be found on [Mediasite](https://cornell.med
 |11/13 | Lecture 19: Reductions, lower bounds, hashing | [PDF](Lectures/Lecture%2019%20-%20reductions,%20hashing.pdf), [Powerpoint](Lectures/Lecture%2019%20-%20reductions,%20hashing.pptx) |Quiz 9 : due 11/15
 |11/18 | Lecture 20: Distributed hashing | [PDF](Lectures/Lecture%2020-DHT.pdf), [Powerpoint](Lectures/Lecture%2020-DHT.pptx)|
 |11/20 | Lecture 21: Locality sensitive hashing | [PDF](Lectures/Lecture%2021-LSH.pdf), [Powerpoint](Lectures/Lecture%2021-LSH.pptx) |[HW3 due](http://cmsx.cs.cornell.edu/web/auth/?action=assignment&assignid=5442)
-|11/25 | Lecture 22: Stochastic gradient descent | [PDF], [Powerpoint] | Quiz 10 : due 11/26
+|11/25 | Lecture 22: Back propogation | [PDF](Lectures/Lecture%2022%20-%20Backprop.pdf), [Powerpoint](Lectures/Lecture%2022%20-%20Backprop.pdf) | Quiz 10 : due 11/26
 |11/27 | Thanksgiving break, no class | 
 |12/2 | Lecture 23: Max flow for computer vision | [PDF], [Powerpoint] |HW4 due(tentative)
 |12/4 | Lecture 24: Exam review | [PDF], [Powerpoint]
