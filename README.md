@@ -86,8 +86,8 @@ Video recordings of the lectures can be found on [Mediasite](https://cornell.med
 |11/20 | Lecture 21: Locality sensitive hashing | [PDF](Lectures/Lecture%2021-LSH.pdf), [Powerpoint](Lectures/Lecture%2021-LSH.pptx) |[HW3 due](http://cmsx.cs.cornell.edu/web/auth/?action=assignment&assignid=5442)
 |11/25 | Lecture 22: Back propogation | [PDF](Lectures/Lecture%2022%20-%20Backprop.pdf), [Powerpoint](Lectures/Lecture%2022%20-%20Backprop.pdf) | Quiz 10 : due 11/26
 |11/27 | Thanksgiving break, no class | 
-|12/2 | Lecture 23: Max flow for computer vision | [PDF], [Powerpoint] | [HW4 due](https://cmsx.cs.cornell.edu/web/auth/?action=assignment&assignid=5628)
-|12/4 | Lecture 24: Exam review | [PDF], [Powerpoint]
+|12/2 | Lecture 23: Max flow for computer vision | [PDF](Lectures/Lecture%2023%20-%20maxflowvision.pdf), [Powerpoint](Lectures/Lecture%2023%20-%20maxflowvision.pdf)| [HW4 due](https://cmsx.cs.cornell.edu/web/auth/?action=assignment&assignid=5628)
+|12/4 | Lecture 24: Exam review |
 |12/9 | Final Exam, in class | [2018 Final](Lectures/2018final.pdf) | *Final coverage changes from year to year*
 
 
