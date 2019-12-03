@@ -88,7 +88,7 @@ Video recordings of the lectures can be found on [Mediasite](https://cornell.med
 |11/27 | Thanksgiving break, no class | 
 |12/2 | Lecture 23: Max flow for computer vision | [PDF](Lectures/Lecture%2023%20-%20maxflowvision.pdf), [Powerpoint](Lectures/Lecture%2023%20-%20maxflowvision.pptx)| [HW4 due](https://cmsx.cs.cornell.edu/web/auth/?action=assignment&assignid=5628)
 |12/4 | Lecture 24: Exam review |
-|12/9 | Final Exam, in class | [2018 Final](Lectures/2018final.pdf) | *Final coverage changes from year to year*
+|12/9 | **Final Exam, in class** | [2018 Final](Lectures/2018final.pdf) | *Final coverage changes from year to year*
 
 
 ### **Assignments** ###
