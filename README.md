@@ -63,28 +63,28 @@ Video recordings of the lectures can be found on [Mediasite](https://cornell.med
 | ------------- |:-------------:| -----:|-----:|
 |9/4 | Lecture 1: Dynamic Programming | [PDF](Lectures/Lecture%201%20-%20Dynamic%20Programming.pdf), [Powerpoint](Lectures/Lecture%201%20-%20Dynamic%20Programming.pptx)|
 |9/9 | Lecture 2: Dynamic Programming (continued) | [PDF](Lectures/Lecture%202%20-%20Dynamic%20Programming%20(continued).pdf), [Powerpoint](Lectures/Lecture%202%20-%20Dynamic%20Programming%20(continued).pptx) |
-|9/11 | Lecture 3: Dijkstra | [PDF](Lectures/Lecture%203%20-%20Dijkstra.pdf), [Powerpoint](Lectures/Lecture%203%20-%20Dijkstra.pptx) |Quiz 1 : due 9/13
+|9/11 | Lecture 3: Dijkstra | [PDF](Lectures/Lecture%203%20-%20Dijkstra.pdf), [Powerpoint](Lectures/Lecture%203%20-%20Dijkstra.pptx) |[Quiz 1 : due 9/13](https://forms.gle/bUGGBZaGjzCbXZQN9)
 |9/16 | Lecture 4: Union find | [PDF](Lectures/Lecture%204%20-%20Union-Find.pdf), [Powerpoint](Lectures/Lecture%204%20-%20Union-Find.pptx) |
-|9/18 | Lecture 5: Balanced Trees | [PDF](Lectures/Lecture%205%20-%20Balanced%20trees.pdf), [Powerpoint](Lectures/Lecture%205%20-%20Balanced%20trees.pptx) |Quiz 2 : due 9/20
+|9/18 | Lecture 5: Balanced Trees | [PDF](Lectures/Lecture%205%20-%20Balanced%20trees.pdf), [Powerpoint](Lectures/Lecture%205%20-%20Balanced%20trees.pptx) |[Quiz 2 : due 9/20](https://forms.gle/tq3LrV8ejXXck1Xh8)
 |9/23 | Lecture 6: k-d Trees for nearest neighbors | [PDF](Lectures/Lecture%206%20-%20Exact%20Nearest%20Neighbor%20Algorithms.pdf), [Powerpoint](Lectures/Lecture%206%20-%20Exact%20Nearest%20Neighbor%20Algorithms.pptx) | HW1 released
-|9/25 | Lecture 7: Minimum spanning trees | [PDF](Lectures/Lecture%207%20-%20MST.pdf), [Powerpoint](Lectures/Lecture%207%20-%20MST.pptx)|Quiz 3 : due 10/2
+|9/25 | Lecture 7: Minimum spanning trees | [PDF](Lectures/Lecture%207%20-%20MST.pdf), [Powerpoint](Lectures/Lecture%207%20-%20MST.pptx)|[Quiz 3 : due 10/2](https://forms.gle/dQS8YwVxjBQ2hEF26)
 |9/30 | Lecture 8: Data representation and real-world efficiency | [PDF](Lectures/Lecture%208%20-%20data%20representations.pdf), [Powerpoint](Lectures/Lecture%208%20-%20data%20representations.pptx)|
-|10/2 | Lecture 9: Max flow / Min cut | [PDF](Lectures/Lecture%209%20-%20Max%20Flow%20_%20Min%20Cut.pdf), [Powerpoint](Lectures/Lecture%209%20-%20Max%20Flow%20_%20Min%20Cut.pptx) |Quiz 4 : due 10/4
+|10/2 | Lecture 9: Max flow / Min cut | [PDF](Lectures/Lecture%209%20-%20Max%20Flow%20_%20Min%20Cut.pdf), [Powerpoint](Lectures/Lecture%209%20-%20Max%20Flow%20_%20Min%20Cut.pptx) |[Quiz 4 : due 10/4](https://forms.gle/YYqQk91VQUDycCTc9)
 |10/7 | Lecture 10: Association rules | [PDF](Lectures/Lecture%2010%20-%20association-rules.pdf), [Powerpoint](Lectures/Lecture%2010%20-%20association-rules.pptx)| [HW 1: due 10/7](https://cmsx.cs.cornell.edu/web/auth/?action=assignment&assignid=5017)
-|10/9 | Lecture 11: More graph problems / Complexity theory| [PDF](Lectures/Lecture%2011%20-%20More%20Graph%20Problems%20_%20Complexity%20Theory.pdf), [Powerpoint](Lectures/Lecture%2011%20-%20More%20Graph%20Problems%20_%20Complexity%20Theory.pptx) |Quiz 5 : due 10/11
+|10/9 | Lecture 11: More graph problems / Complexity theory| [PDF](Lectures/Lecture%2011%20-%20More%20Graph%20Problems%20_%20Complexity%20Theory.pdf), [Powerpoint](Lectures/Lecture%2011%20-%20More%20Graph%20Problems%20_%20Complexity%20Theory.pptx) |[Quiz 5 : due 10/11](https://forms.gle/JqerpaLJ8ZxwMirN7)
 |10/14 | Indigenous Peoples' Day, no class | 
-|10/16 | Lecture 12: Reductions, lower bounds and approximation algorithms| [PDF](Lectures/Lecture%2012%20-%20reductions.pdf), [Powerpoint](Lectures/Lecture%2012%20-%20reductions.pptx) |Quiz 6 : due 10/18
+|10/16 | Lecture 12: Reductions, lower bounds and approximation algorithms| [PDF](Lectures/Lecture%2012%20-%20reductions.pdf), [Powerpoint](Lectures/Lecture%2012%20-%20reductions.pptx) |[Quiz 6 : due 10/18](https://forms.gle/JdDmHRgt6G4MnY2F8)
 |10/21 | Lecture 13: Exam review | | HW2 released
 |10/23 | **Prelim** | [2018 Prelim](Lectures/2018prelim.pdf)| *Prelim coverage changes from year to year*
 |10/28 | Lecture 14: Concurrency | [PDF](Lectures/Lecture%2014%20-%20Concurrency.pdf), [Powerpoint](Lectures/Lecture%2014%20-%20Concurrency.pptx) |
-|10/30 | Lecture 15: Distributed Computing | [PDF](Lectures/Lecture%2015%20-%20Distributed%20Computing.pdf), [Powerpoint](Lectures/Lecture%2015%20-%20Distributed%20Computing.pptx) |Quiz 7 : due 11/1
+|10/30 | Lecture 15: Distributed Computing | [PDF](Lectures/Lecture%2015%20-%20Distributed%20Computing.pdf), [Powerpoint](Lectures/Lecture%2015%20-%20Distributed%20Computing.pptx) |[Quiz 7 : due 11/1](https://forms.gle/dAwmn7wdvpGEV2U9A)
 |11/4 | Lecture 16: Streaming algorithms | [PDF](Lectures/Lecture%2016%20-%20streaming.pdf), [Powerpoint](Lectures/Lecture%2016%20-%20streaming.pptx) |[HW2 due](https://cmsx.cs.cornell.edu/web/auth/?action=assignment&assignid=5284)
-|11/6 | Lecture 17: Streaming algorithms and hashing | [PDF](Lectures/Lecture%2017%20-%20streaming%20with%20hashing.pdf), [Powerpoint](Lectures/Lecture%2017%20-%20streaming%20with%20hashing.pptx) |HW3 release, Quiz 8 : due 11/8
+|11/6 | Lecture 17: Streaming algorithms and hashing | [PDF](Lectures/Lecture%2017%20-%20streaming%20with%20hashing.pdf), [Powerpoint](Lectures/Lecture%2017%20-%20streaming%20with%20hashing.pptx) |HW3 release, [Quiz 8 : due 11/8](https://forms.gle/6Bv8DbGCCv2ECVnx6)
 |11/11 | Lecture 18: Proof by Induction | [PDF](Lectures/Lecture%2018%20-%20Proof%20by%20Induction.pdf), [Powerpoint](Lectures/Lecture%2018%20-%20Proof%20by%20Induction.pptx)
-|11/13 | Lecture 19: Reductions, lower bounds, hashing | [PDF](Lectures/Lecture%2019%20-%20reductions,%20hashing.pdf), [Powerpoint](Lectures/Lecture%2019%20-%20reductions,%20hashing.pptx) |Quiz 9 : due 11/15
+|11/13 | Lecture 19: Reductions, lower bounds, hashing | [PDF](Lectures/Lecture%2019%20-%20reductions,%20hashing.pdf), [Powerpoint](Lectures/Lecture%2019%20-%20reductions,%20hashing.pptx) |[Quiz 9 : due 11/15](https://forms.gle/bMCH1DXSV3NtA5dP8)
 |11/18 | Lecture 20: Distributed hashing | [PDF](Lectures/Lecture%2020-DHT.pdf), [Powerpoint](Lectures/Lecture%2020-DHT.pptx)|
 |11/20 | Lecture 21: Locality sensitive hashing | [PDF](Lectures/Lecture%2021-LSH.pdf), [Powerpoint](Lectures/Lecture%2021-LSH.pptx) |[HW3 due](http://cmsx.cs.cornell.edu/web/auth/?action=assignment&assignid=5442)
-|11/25 | Lecture 22: Back propogation | [PDF](Lectures/Lecture%2022%20-%20Backprop.pdf), [Powerpoint](Lectures/Lecture%2022%20-%20Backprop.pdf) | Quiz 10 : due 11/26
+|11/25 | Lecture 22: Back propogation | [PDF](Lectures/Lecture%2022%20-%20Backprop.pdf), [Powerpoint](Lectures/Lecture%2022%20-%20Backprop.pdf) | [Quiz 10 : due 11/26](https://forms.gle/oyi7WWuG5P4E551m9)
 |11/27 | Thanksgiving break, no class | 
 |12/2 | Lecture 23: Max flow for computer vision | [PDF](Lectures/Lecture%2023%20-%20maxflowvision.pdf), [Powerpoint](Lectures/Lecture%2023%20-%20maxflowvision.pptx)| [HW4 due](https://cmsx.cs.cornell.edu/web/auth/?action=assignment&assignid=5628)
 |12/4 | Lecture 24: Exam review |
